@@ -1,0 +1,40 @@
+
+-------------------
+
+2 days
+
+Campusx_Notes_PDF later revise -> Revise it nicely. not quick read ... but proper aram aram say padth and understand. (and heighlight imp stuff,etc)
+While Revising make summary / flow also in excelidraw.... and add all techniques/ ways of each process...
+
+(OCR pdf is Bad later good pdf may put heighlisths/draws ...)
+
+
+-> make Summary / etc if u want (using both Campusx & college) -> ex:- NLP tasks, NLP approache, NLP Algorithms, NLP Pipleline, NLP Processing techniques (stemming, letmit...), NLP Embedding techniques (tf-idf , worf2vec,etc ) , .... Data aquisition (have, not have ,etc) preprocessing (lowercasing , ...)
+... like full make as per the Pipeline Structure & put all info in it. (so that when making a project then easy .... or while explain in interview then easily explain by structure)
+
+Data Aquisistion -> Data Preprocessing -> Data Representation -> .....  
+-> Problem Statement understand -> Identify the Problem (binary classification , multi call, multi label , etc ...) -> Data Understand -> EDA (missing values , duplicate, balanced data/ target variable distribution, etc .. based on the problem & dataset)
+-> Feature Engineering / Transfromation -> EDA -> ...
+-> Train Different Models -> Hyper Parameter Tuning 
+-> cross validation -> evaluation ,.... 
+
+-> Train Model
+|-> ML Algos used for textual ... XgBoost, RandonForest, etc all
+|-> DL Algos used for textual data ... BERT , ...
+
+(text represeantation -> Bow , Ngram , Tfidf , Word2vec , Tfidf weighted word2vec, ... gpt kar ... 
+
+-------------------
+
+
+2-Projects Campusx Watch. 
+
+Gpt -> just know etc stuff -> Named Entity Recog , Topic Modeling , Using DL(BERT) models
+
+--------------------
+
+1 - week :-
+
+Portfolio Project -> Not just clone the Project but actually go deep and think .... (try new features, Do EDA, try different techniques- bow , tfidf , etc etc , different models- ml , dl , pre-train , finetune ... etc ... ) then put all the stuff in a notebook - so that later easy to explain . also make website and deploy on azure.
+
+make frontend - using react - very basic blog type ... where first there will be intro written (sentiment analysis model ..etc etc..) then input and output box for testing the model ... and below it all the other info ... like data collected ... preprocessing step , model training , output evaluation , etc etc ... 
