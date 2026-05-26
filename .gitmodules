@@ -1,0 +1,8 @@
+[submodule "4_Movie_Recommendation_System"]
+	path = 4_Movie_Recommendation_System
+	url = https://github.com/ujwalsahu123/Movie_Recommender_System_ML_NLP.git
+	branch = main
+[submodule "3_Email_Spam_Classifier"]
+	path = 3_Email_Spam_Classifier
+	url = https://github.com/ujwalsahu123/Email_Spam_Classifier_ML_NLP.git
+	branch = main
