@@ -27,8 +27,6 @@ Data Aquisistion -> Data Preprocessing -> Data Representation -> .....
 -------------------
 
 
-2-Projects Campusx Watch. 
-
 Gpt -> just know etc stuff -> Named Entity Recog , Topic Modeling , Using DL(BERT) models
 
 --------------------
